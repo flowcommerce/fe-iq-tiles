@@ -18,7 +18,7 @@ For this exercise we would like you to create an application that displays a gri
 
 * Single - The smallest unit of tile (1x1)
 * Wide - A tile that represents two singles side by side (2x1)
-* Tall - A vertical tile (1x3)
+* Tall - A vertical tile (1x2)
 * Super - A wide tile that spans the full width of the page
 
 ### Requirements
